@@ -20,6 +20,7 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="style2.css">
 
+
 </head>
 <body>
     
@@ -120,6 +121,99 @@
 </section>
 
 <!-- about section ends -->
+
+<!-- hp section starts  -->
+<section class="Health_Advisors" id="Health_Advisors">
+    <h1 class="heading"><span>'</span> Health Advisors <span>'</span></h1>
+<div class="demo" data-aos="fade-up">
+        <div class="container">
+          <div class="row">
+            <div id="testimonial-slider" class="owl-carousel">
+              <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=1027" alt="">
+                  </div>
+                  <h3 class="name">Michele Miller</h3>
+                  <span class="title">Project Manager</span>
+                </div>
+              </div>
+              <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=839" alt="">
+                  </div>
+                  <h3 class="name">Patricia Knott</h3>
+                  <span class="title">Web Developer</span>
+                </div>
+              </div>
+              <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=856" alt="">
+                  </div>
+                  <h3 class="name">Justin Ramos</h3>
+                  <span class="title">Web Developer</span>
+                </div>
+              </div>
+              <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=836" alt="">
+                  </div>
+                  <h3 class="name">Mary Huntley</h3>
+                  <span class="title">Web Developer</span>
+                </div>
+              </div>
+              <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=883" alt="">
+                  </div>
+                  <h3 class="name">Aaron Newell</h3>
+                  <span class="title">Web Developer</span>
+                </div>
+              </div>
+                      <div class="testimonial">
+                <span class="icon fa fa-quote-left"></span>
+                <p class="description">
+                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                </p>
+                <div class="testimonial-content">
+                  <div class="pic">
+                    <img src="https://picsum.photos/130/130?image=777" alt="">
+                  </div>
+                  <h3 class="name">Lizzie Geren</h3>
+                  <span class="title">Web Developer</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+</section>
+<!-- hp section ends -->
+
 
 <!-- facility section starts  -->
 
