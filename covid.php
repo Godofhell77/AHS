@@ -92,7 +92,7 @@ details[open] p {
 }
 
 
-}
+
 
 .faq-list {
     width: 880px;
