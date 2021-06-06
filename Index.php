@@ -14,7 +14,7 @@
 
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-        <a class="navbar-brand" href="#">Accident HealthCare Centre</a>
+        <a class="navbar-brand" href="#">Accident & HealthCare System</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -89,39 +89,39 @@
 
 
 
-        <section class="my-5">
+        <section class="my-5" style="background-color:ivory;">
             <div class="py-5">
-                <h3 class="text-center">About Us</h3>
+                <h3 class="text-center display-4"><b>About Us</b></h3>
             </div>
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-6 col-12">
-                        <img src="images/about.jpg" class="img-fluid aboutimg">
+                        <img src="images/about.jpg" class="img-fluid aboutimg" style="margin-left: 90px; margin-bottom: 40px;">
                     </div>
                     <div class="col-lg-6 col-md-6 col-12">
-                        <h2 class="display-4">Accident Response System is an initiative to Save Lives.</h2>
-                        <h3><p class="py-3">We are Healthcare made easy and conviniently accessible for everyone.</p></h3>
-                        <a href="about.php" class="btn btn-dark"> Check More </a>
+                        <h3 class="display-4" style="margin-left: 100px;"><b>A</b>&<b>HS</b> is an initiative to Save Lives.</h3>
+                        <p class="py-3" style="margin-left: 100px;" >We are Healthcare made easy and conviniently accessible for everyone.</p>
+                        <a href="about.php" class="btn btn-dark" style="margin-left: 100px; margin-bottom:40px;"> Check More </a>
                     </div>
                 </div>
 
             </div>
-        </section>
+        </section> 
 
 
 
-        <section class="my-5">
+        <section class="my-5" style="background-color:aliceblue;">
             <div class="py-5">
-                <h1 class="text-center">Our Motto, Mission & Vision</h1>
+                <h3 class="text-center display-4"><b>Our Motto, Mission & Vision</b></h3>
             </div>
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-4 col-md-4 col-12">
-                        <div class="card">
+                        <div class="card" style="margin-bottom: 40px;">
                             <img class="card-img-top" src="images/motto.jpg" alt="Card image">
                             <div class="card-body">
                               <h1>Our Motto</h1>
-                                <h4 class="card-title">To build an institution which matches the highest standards of healthcare delivery across the world,  to patients at an affordable cost. </h4>
+                                <h4 class="card-title">To build a system which matches the highest standards of healthcare across the world in affordable cost. </h4>
                             </div>
                         </div>
                     </div>
@@ -148,7 +148,7 @@
         </section>
 
 
-<section class="text-center my-5 p-1">
+<section class="text-center my-5 p-1" style="background-color:mediumturquoise;">
 
   <!-- Section heading -->
   <h1 class="h1-responsive font-weight-bold my-5" id="os">Our Specialities</h1>
@@ -156,10 +156,10 @@
   <h3 class="dark-grey-text w-responsive mx-auto mb-5">AHS provides a wide range of options for Medical Services and best suited Expertise to make the healthcare as feasiable as possible.</h3>
 
   <!-- Grid row -->
-  <div class="row">
+  <div class="row p-4">
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+    <div class="col-lg-4 col-md-12 mb-lg-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -180,7 +180,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+    <div class="col-lg-4 col-md-6 mb-md-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -203,7 +203,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6">
+    <div class="col-lg-4 col-md-6 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -223,7 +223,7 @@
       <!--Card-->
     </div>
     <!--Grid column-->
-<div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+<div class="col-lg-4 col-md-12 mb-lg-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -245,7 +245,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+    <div class="col-lg-4 col-md-6 mb-md-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -268,7 +268,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6">
+    <div class="col-lg-4 col-md-6 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -286,7 +286,7 @@
         </div>
       </div>
       <!--Card-->
-    </div><div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+    </div><div class="col-lg-4 col-md-12 mb-lg-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -308,7 +308,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+    <div class="col-lg-4 col-md-6 mb-md-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -331,7 +331,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6">
+    <div class="col-lg-4 col-md-6 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -349,7 +349,7 @@
         </div>
       </div>
       <!--Card-->
-    </div><div class="col-lg-4 col-md-12 mb-lg-0 mb-4">
+    </div><div class="col-lg-4 col-md-12 mb-lg-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -371,7 +371,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6 mb-md-0 mb-4">
+    <div class="col-lg-4 col-md-6 mb-md-0 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -394,7 +394,7 @@
     <!--Grid column-->
 
     <!--Grid column-->
-    <div class="col-lg-4 col-md-6">
+    <div class="col-lg-4 col-md-6 p-4">
       <!--Card-->
       <div class="card testimonial-card">
         <!--Background color-->
@@ -424,36 +424,36 @@
 </section>
 
 
-        <section class="my-5">
+        <section class="my-5" style="background-color:papayawhip;">
             <div class="py-5">
                 <h1 class="text-center"> Our Popular Collaborations </h1>
             </div>
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/medanta.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/medanta.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/bombay.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/bombay.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/aurbindo.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/aurbindo.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/vishesh.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/vishesh.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/jupiter.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/jupiter.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/fortis.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/fortis.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/apollo1.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/apollo1.jpg" class="img-fluid ">
                     </div>
-                    <div class="col-lg-3 col-md-3 col-12">
-                        <img src="images/shalby.jpg" class="img-fluid pb-4">
+                    <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/shalby.jpg" class="img-fluid ">
                     </div>
                 </div>
             </div>
