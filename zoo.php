@@ -69,9 +69,9 @@ Zoonoses comprise a large percentage of all newly identified infectious diseases
   </div>
 
 
-<div class="w3-panel w3-padding-16 w3-teal">
+<div class="w3-panel w3-padding-16 w3-teal ">
   <h4>What is Zoonosis infection and how is it related to COVID-19 patients?</h4>
-  <video width="1620" controls>
+  <video width="100%" controls>
   <source src="images/zoo.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>

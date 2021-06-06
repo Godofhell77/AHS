@@ -73,7 +73,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
 <div class="w3-panel w3-padding-16 w3-teal">
   <h4>What is black fungus and what causes the infection in COVID-19 patients?</h4>
-  <video width="1620" controls>
+  <video width="100%" controls>
   <source src="images/vid.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
