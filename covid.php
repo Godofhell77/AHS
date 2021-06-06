@@ -339,7 +339,7 @@ img{
   margin-top: 50px;
 }
 a:link, a:visited {
-  width: 350px;
+  width: 310px;
   margin-top: 50px;
   background-color: white;
   color: black;
@@ -483,9 +483,9 @@ h2.span{
 
   <!-- Navbar -->
 <div class="w3-top">
-  <div class="w3-bar w3-red w3-card w3-left-align w3-large">
+  <div class="w3-bar w3-grey w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white">Home</a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white" style="margin-left: 20px;">Home</a>
   </div>
 
   <!-- Navbar on small screens -->
@@ -718,7 +718,42 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
 
 
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
-    <h1 class="w3-margin w3-xlarge">Quote of the day: live life</h1>
+    
+          <!-- new code -->
+<h2 data-aos="fade-right" class="text-center">Projects statistics</h2>
+
+<div  class="project-counter-wrp">
+
+   
+
+    <ul>
+        <li>
+            <i class="fa fa-briefcase"></i>
+            <p style="text-align: center;">%</p>
+            <p style="text-align: center;" id="number1" class="number">95</p>
+            <br/>
+            <span></span>
+            <p style="text-align: center;">Projects Done</p>
+        </li>
+        <li>
+            <i class="fa fa-smile-o"></i>
+            <p style="text-align: center;" ><</p>
+            <p style="text-align: center;" id="number2" class="number">89</p>
+            <br/>
+            <span></span>
+            <p style="text-align: center;">Happy Clients</p>
+        </li>
+        <li style="width: 30.33%">
+            <i class="fa fa-coffee"></i>
+            <p style="text-align: center;">~</p>
+            <p style="text-align: center;" id="number3" class="number">359</p>
+            <br/>
+            <span></span>
+            <p style="text-align: center;">Cups of Coffee</p>
+        </li>
+    </ul>
+</div>
+
 </div>
 
 
@@ -788,41 +823,6 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
 <br>
 
 
-
-          <!-- new code -->
-<h2 data-aos="fade-right" class="text-center">Projects statistics</h2>
-
-<div  class="project-counter-wrp">
-
-   
-
-    <ul>
-        <li>
-            <i class="fa fa-briefcase"></i>
-            <p style="text-align: center;">%</p>
-            <p style="text-align: center;" id="number1" class="number">95</p>
-            <br/>
-            <span></span>
-            <p style="text-align: center;">Projects Done</p>
-        </li>
-        <li>
-            <i class="fa fa-smile-o"></i>
-            <p style="text-align: center;" ><</p>
-            <p style="text-align: center;" id="number2" class="number">89</p>
-            <br/>
-            <span></span>
-            <p style="text-align: center;">Happy Clients</p>
-        </li>
-        <li style="width: 30.33%">
-            <i class="fa fa-coffee"></i>
-            <p style="text-align: center;">~</p>
-            <p style="text-align: center;" id="number3" class="number">359</p>
-            <br/>
-            <span></span>
-            <p style="text-align: center;">Cups of Coffee</p>
-        </li>
-    </ul>
-</div>
 
 
 <script>
