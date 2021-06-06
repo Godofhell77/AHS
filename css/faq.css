@@ -1,0 +1,94 @@
+
+
+.img
+{
+  position: absolute;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.text-block {
+  position: absolute;
+  width: 1620px;
+  top: 20px;
+  left: 40px;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 100px;
+}
+
+.container {
+  position: absolute;
+  font-family: Arial;
+}
+
+.two-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 180px;
+  margin-left: 210px;
+}
+
+
+.thri-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 385px;
+}
+
+.for-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 590px;
+  margin-left: 210px;
+}
+
+.fiv-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 795px;
+}
+
+.six-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1025px;
+  margin-left: 210px;
+}
+
+.sev-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1210px;
+}
+
+.et-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1373px;
+  margin-left: 210px;
+}
+
+.ni-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1560px;
+}
+
+.te-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1725px;
+  margin-left: 210px;
+}
+

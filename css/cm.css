@@ -1,0 +1,48 @@
+
+
+.img
+{
+  position: absolute;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.text-block {
+  position: absolute;
+  width: 1620px;
+  top: 20px;
+  left: 40px;
+  background-color: white;
+  color: black;
+  padding-left: 20px;
+  padding-right: 100px;
+}
+
+.container {
+  position: absolute;
+  font-family: Arial;
+}
+
+.two-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 250px;
+  margin-left: 210px;
+}
+
+
+.thri-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 573px;
+}
+
+.for-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 898px;
+  margin-left: 210px;
+}

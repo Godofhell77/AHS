@@ -1,0 +1,68 @@
+.img
+{
+  position: absolute;
+  margin-left: 10px;
+  margin-right: 100px;
+}
+
+.text-block {
+  position: absolute;
+  width: 1620px;
+  top: 20px;
+  left: 40px;
+  background-color: #f2f2f2;
+  color: Black;
+  padding-left: 20px;
+  padding-right: 100px;
+}
+
+.container {
+  position: absolute;
+  font-family: Arial;
+}
+
+.two-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 200px;
+  margin-left: 210px;
+}
+
+
+.thri-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 425px;
+}
+
+.for-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 627px;
+  margin-left: 210px;
+}
+
+.fiv-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 855px;
+}
+
+.six-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1085px;
+  margin-left: 210px;
+}
+
+.sev-container
+{
+  position: absolute;
+  font-family: Arial;
+  margin-top: 1290px;
+}
