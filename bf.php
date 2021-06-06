@@ -82,7 +82,7 @@ html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif;}
 
   <div class="w3-row">
     <div class="w3-twothird w3-container">
-      <h5>What happens when one contracts it?</h5>
+      <h5>What happens when one contracts it kya hog?</h5>
       <p>Warning signs include pain and redness around the eyes or nose, with fever, headache, coughing, shortness of breath, bloody vomits, and altered mental status. According to the advisory, infection with mucormycetes should be suspected when there is:<br><br>
 
       * Sinusitis — nasal blockade or congestion, nasal discharge (blackish/bloody);<br>
