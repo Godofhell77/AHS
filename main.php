@@ -35,13 +35,14 @@
 
     <nav class="nav">
         <ul>
-            <li><a href="Index.php">home</a></li>
-            <li><a href="#about">about</a></li>
+            <li><a href="Index.php">Home</a></li>
+            <li><a href="#about">About</a></li>
             <li><a href="#Health Advisorss">Health Advisors</a></li>
-            <li><a href="#facility">facility</a></li>
-            <li><a href="#review">review</a></li>
-            <li><a href="#contact">contact</a></li>
-            <li><a href="#post">post</a></li>
+            <li><a href="#facility">Facility</a></li>
+            <li><a href="#review">Review</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#post">Post</a></li>
+            <li><a href="logout.php">Logout</a></li>
             <li class="nav-item dropdown">
                     
     </nav>
