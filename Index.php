@@ -431,29 +431,29 @@
 
             <div class="container-fluid">
                 <div class="row">
-                    <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/medanta.jpg" class="img-fluid ">
+                <div class="col-lg-3 col-md-3 col-12 p-4">
+                        <img src="images/medanta.jpg" title="Medanta Medicity" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/bombay.jpg" class="img-fluid ">
+                        <img src="images/bombay.jpg" title="Bombay Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/aurbindo.jpg" class="img-fluid ">
+                        <img src="images/aurbindo.jpg" title="Aurbindo Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/vishesh.jpg" class="img-fluid ">
+                        <img src="images/vishesh.jpg" title="Vishesh Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/jupiter.jpg" class="img-fluid ">
+                        <img src="images/jupiter.jpg" title="Jupiter Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/fortis.jpg" class="img-fluid ">
+                        <img src="images/fortis.jpg" title="Fortis Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/apollo1.jpg" class="img-fluid ">
+                        <img src="images/apollo1.jpg" title="Apollo Hospital" class="img-fluid pb-4">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/shalby.jpg" class="img-fluid ">
+                        <img src="images/shalby.jpg" title="Shalby Hospital" class="img-fluid pb-4">
                     </div>
                 </div>
             </div>
@@ -467,7 +467,7 @@
             <div class="py-5">
             </div><center>
                     <a href="login.php"> <button type="submit" class="btn btn-dark ">Login</button></a>
-                    <a href="signup.php"> <button type="submit" class="btn btn-dark ">Signup</button></a>
+                    <a href="register.php"> <button type="submit" class="btn btn-dark ">Signup</button></a>
             </center></div>
         </section>
 
