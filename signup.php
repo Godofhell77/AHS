@@ -14,14 +14,17 @@
     <h3>Please fill in this form to create an account.</h3>
     <hr>
 
+    <label for="Name"><b>Name</b></label><br>
+    <input type="text" placeholder="Enter Name" name="Name" required><br>
+
+    <label for="Mobile No."><b>Mobile No.</b></label><br>
+    <input type="text" placeholder="Enter Mobile No." name="Mobile No." required><br>
+    
     <label for="email"><b>Email</b></label><br>
     <input type="text" placeholder="Enter Email" name="email" required><br>
 
     <label for="psw"><b>Password</b></label><br>
     <input type="password" placeholder="Enter Password" name="psw" required><br>
-
-    <label for="psw-repeat"><b>Repeat Password</b></label><br>
-    <input type="password" placeholder="Repeat Password" name="psw-repeat" required><br>
 
     <label>
       <input type="checkbox" checked="checked" name="remember" style="margin-bottom:15px"> Remember me
