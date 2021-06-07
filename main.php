@@ -27,11 +27,7 @@
     <link rel='stylesheet' type='text/css' media='screen' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css'>
     
 
-    <script src="main.js"></script>
-
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js'></script>
-    <script src="vac.js"></script>
+    
 
 
 
@@ -40,7 +36,7 @@
 <body>
     
 <!-- jquery cdn link  -->
-
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <!-- magnific popup js link  -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
 
@@ -48,7 +44,10 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
 
 <!-- custom js link  -->
+<script src="main.js"></script>
 
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js'></script>
+    <script src="main.js"></script>
 
 <script>
 
@@ -417,27 +416,10 @@ AOS.init({
 
             <div class="col-md-10" data-aos="flip-down">
 
-                <form action="">
+                <form action="cover.php" method="POST">
 
-                    <div class="inputBox">
-                        <input type="text" placeholder="full name">
-                        <input type="number" placeholder="phone">
-                    </div>
 
-                    <div class="inputBox">
-                        <input type="email" placeholder="your email">
-                        <select name="" id="">
-                            <option value="" disabled selected>make an appointment</option>
-                            <option value="09-11 am">09-11 am</option>
-                            <option value="11-03 pm">11-03 pm</option>
-                            <option value="03-06 pm">03-06 pm</option>
-                            <option value="06-09 pm">06-09 pm</option>
-                        </select>
-                    </div>
-
-                    <textarea name="" id="" cols="30" rows="10" placeholder="message ( optional )"></textarea>
-
-                    <input type="submit" name="" id="" value="make appointment" class="button">
+                    <input type="submit" name="" id="" style="margin-top: 220px" value="make appointment" class="button">
 
                 </form>
 
@@ -459,35 +441,35 @@ AOS.init({
 
         <h1 class="heading"><span>'</span> out posts <span>'</span></h1>
 
-        <div class="box-container">
+        <div class="box-container" data-aos="fade-right" >
 
-            <div class="box" data-aos="fade-right">
-                <img src="images/img2.jpg" alt="">
+            <div class="box" data-aos="zoom-in">
+                <img src="images/cor.jpg" alt="">
                 <div class="content">
-                    <span>jan 5, 2021</span>
-                    <a href="#"><h3>post title goes here</h3></a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
-                    <a href="#"><button class="button">learn more</button></a>
+                    <span>jan 15, 2020</span>
+                    <a href="covid.php"><h3>Covid-19 Epidemic</h3></a>
+                    <p style="text-align: justify;">The COVID-19 Pandemic, also known as the Coronavirus Pandemic is an ongoing Global pandemic od Coronavirus Disease caused by severe Acute Respiratory Syndrome Coronavirus 2 (SARS-COV- 2).The Virus was first identified in Wuhan, China. </p>
+                    <a href="covid.php"><button class="button" style="margin-top: 30px">learn more</button></a>
                 </div>
             </div>
 
-            <div class="box" data-aos="fade-up">
-                <img src="images/img4.jpg" alt="">
+            <div class="box" data-aos="zoom-in">
+                <img src="images/bf.jpg" alt="" >
                 <div class="content">
-                    <span>jan 5, 2021</span>
-                    <a href="#"><h3>post title goes here</h3></a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
-                    <a href="#"><button class="button">learn more</button></a>
+                    <span>May 22, 2021</span>
+                    <a href="bf.php"><h3>Black Fungus In India!!!</h3></a>
+                    <p style="text-align: justify;">Mucormycosis, Previously known as Zygomycosis;sometimes called Black Fungus is a serious Fungal Infection that most commonly infects the Sinuses and Brain resulting in a Runny Nose, One sided facial Swelling and Pain, Headache, Fever and Tissue Death.  </p>
+                    <a href="bf.php"><button class="button">learn more</button></a>
                 </div>
             </div>
 
-            <div class="box" data-aos="fade-left">
-                <img src="images/img5.jpg" alt="">
+            <div class="box" data-aos="zoom-in">
+                <img src="images/zs.jpg" alt="">
                 <div class="content">
-                    <span>jan 5, 2021</span>
-                    <a href="#"><h3>post title goes here</h3></a>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
-                    <a href="#"><button class="button">learn more</button></a>
+                    <span>July 6, 2020</span>
+                    <a href="zoo.php"><h3>Zoonosis</h3></a>
+                    <p style="text-align: justify;">Zoonosis is an infectious disease that has jumped from a non-human animal to humans. Zoonatic pathogens may be bacterial, viral or parasitic or may involve uncoventional agents and can spread to human through direct contact or through food, water  or the Environment. </p>
+                    <a href="zoo.php"><button class="button">learn more</button></a>
                 </div>
             </div>
 
