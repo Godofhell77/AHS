@@ -18,12 +18,46 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 
     <!-- custom css file link  -->
-    <link rel="stylesheet" href="style2.css">
+
+     <link rel="stylesheet" type="text/css" href="Newstyle.css">
+
+    
+    <link rel='stylesheet' type='text/css' media='screen' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.2/css/bootstrap.min.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'>
+    <link rel='stylesheet' type='text/css' media='screen' href='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.css'>
+    
+
+    <script src="main.js"></script>
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.js'></script>
+    <script src="vac.js"></script>
+
+
 
 
 </head>
 <body>
     
+<!-- jquery cdn link  -->
+
+<!-- magnific popup js link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
+
+<!-- aos js file cdn link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+<!-- custom js link  -->
+
+
+<script>
+
+AOS.init({
+    duration:1000,
+    delay:400
+});
+
+</script>
 
 <!-- header section starts  -->
 
@@ -35,13 +69,14 @@
 
     <nav class="nav">
         <ul>
-            <li><a href="Index.php">Home</a></li>
-            <li><a href="#about">About</a></li>
-            <li><a href="#Health Advisorss">Health Advisors</a></li>
-            <li><a href="#facility">Facility</a></li>
-            <li><a href="#review">Review</a></li>
-            <li><a href="#contact">Contact</a></li>
-            <li><a href="#post">Post</a></li>
+            <li><a href="Index.php">home</a></li>
+            <li><a href="#about">about</a></li>
+            <li><a href="#Health_Advisors">Adviser</a></li>
+            <li><a href="#facility">facility</a></li>
+            <li><a href="#review">review</a></li>
+            <li><a href="#contact">contact</a></li>
+            <li><a href="#post">post</a></li>
+            <li><a href="profile.php">Profile</a></li>
             <li><a href="logout.php">Logout</a></li>
             <li class="nav-item dropdown">
                     
@@ -81,6 +116,7 @@
 
 
 <!-- home section ends -->
+
 
 <!-- about section start  -->
 
@@ -214,6 +250,8 @@
       </div>
 </section>
 <!-- hp section ends -->
+
+
 
 
 <!-- facility section starts  -->
@@ -424,32 +462,32 @@
         <div class="box-container">
 
             <div class="box" data-aos="fade-right">
-                <img src="images/cor.jpg" alt="">
+                <img src="images/img2.jpg" alt="">
                 <div class="content">
-                    <span>Jan 15, 2020</span>
-                    <a href="#"><h3>Covid-19 epidemic</h3></a>
-                    <p>The COVID-19 pandemic, also known as the coronavirus pandemic, is an ongoing global pandemic of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). The virus was first identified in December 2019 in Wuhan, China.</p>
-                    <a href="covid.php"><button class="button">Learn more</button></a>
+                    <span>jan 5, 2021</span>
+                    <a href="#"><h3>post title goes here</h3></a>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
+                    <a href="#"><button class="button">learn more</button></a>
                 </div>
             </div>
 
             <div class="box" data-aos="fade-up">
-                <img src="images/bf.jpg" alt="">
+                <img src="images/img4.jpg" alt="">
                 <div class="content">
-                    <span>May 22, 2021</span>
-                    <a href="#"><h3>Black Fungus in India!!!</h3></a>
-                    <p>Mucormycosis, previously known as zygomycosis sometimes called black fungus is a serious fungal infection, that most commonly infects the sinuses and brain resulting in a runny nose, one sided facial swelling and pain, headache, fever, and tissue death.</p>
-                    <a href="bf.php"><button class="button">learn more</button></a>
+                    <span>jan 5, 2021</span>
+                    <a href="#"><h3>post title goes here</h3></a>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
+                    <a href="#"><button class="button">learn more</button></a>
                 </div>
             </div>
 
             <div class="box" data-aos="fade-left">
-                <img src="images/zs.jpg" alt="">
+                <img src="images/img5.jpg" alt="">
                 <div class="content">
-                    <span>July 6, 2020</span>
-                    <a href="#"><h3>Zoonosis</h3></a>
-                    <p>Zoonosis is an infectious disease that has jumped from a non-human animal to humans. Zoonotic pathogens may be bacterial, viral or parasitic, or may involve unconventional agents and can spread to humans through direct contact or through food, water or the environment.</p>
-                    <a href="zoo.php"><button class="button">learn more</button></a>
+                    <span>jan 5, 2021</span>
+                    <a href="#"><h3>post title goes here</h3></a>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae ex porro libero at veniam molestias facere quo necessitatibus ipsum ad?</p>
+                    <a href="#"><button class="button">learn more</button></a>
                 </div>
             </div>
 
@@ -496,42 +534,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!-- jquery cdn link  -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-
-<!-- magnific popup js link  -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.min.js"></script>
-
-<!-- aos js file cdn link  -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
-
-<!-- custom js link  -->
-<script src="js/main.js"></script>
-
-
-<script>
-
-AOS.init({
-    duration:1000,
-    delay:400
-});
-
-</script>
-
 </body>
+
 </html>
