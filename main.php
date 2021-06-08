@@ -418,7 +418,6 @@ AOS.init({
 
                 <form action="cover.php" method="POST">
 
-
                     <input type="submit" name="" id="" style="margin-top: 220px" value="make appointment" class="button">
 
                 </form>
