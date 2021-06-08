@@ -168,79 +168,80 @@ AOS.init({
               <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                If the stresses that surfaced over the past year caused significant friction or frequent arguments, you may want to talk with a family counselor. Having a neutral third party help you uncover underlying issues and concerns and build a strategy to deal with them can be a good place to start.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=1027" alt="">
                   </div>
                   <h3 class="name">Michele Miller</h3>
-                  <span class="title">Project Manager</span>
+                  <span class="title">Miles Varn,MD</span>
                 </div>
               </div>
               <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                We were designed to sleep. We must sleep to live. But for many, even before the pandemic, sleep problems were common. In addition to people with diagnosed sleep disorders like insomnia and sleep apnea, noting that 25% of adults in the India have undiagnosed sleep disorders.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=839" alt="">
                   </div>
                   <h3 class="name">Patricia Knott</h3>
-                  <span class="title">Web Developer</span>
+                  <span class="title">Nancy Rothstein</span>
                 </div>
               </div>
               <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                From lockdowns and a mounting case and death count to the financial impact of the pandemic, people are living with high levels of stress. All these stresses have had a significant impact on mental health.To promote better mental health,a hobby can yield physical health benefits.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=856" alt="">
                   </div>
                   <h3 class="name">Justin Ramos</h3>
-                  <span class="title">Web Developer</span>
+                  <span class="title">Michael Scott</span>
                 </div>
               </div>
               <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                financial anxiety might be affecting your life more than you know. It might even be the cause of PTSD-like symptoms.
+                When those feelings are compromised by worrying about your financial situation, you can feel as if your very survival is at stake.It’s hardly surprising,that it can cause stress.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=836" alt="">
                   </div>
                   <h3 class="name">Mary Huntley</h3>
-                  <span class="title">Web Developer</span>
+                  <span class="title">Ruth Williams</span>
                 </div>
               </div>
               <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                There are plenty of health benefits to cycling, too. It can help you to lose weight, build muscle, improve your cardiovascular fitness and reduce your chances of respiratory illness. There is an increasing focus on climate change and how our lifestyles impact our surroundings.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=883" alt="">
                   </div>
                   <h3 class="name">Aaron Newell</h3>
-                  <span class="title">Web Developer</span>
+                  <span class="title">Sarah Thompson</span>
                 </div>
               </div>
                       <div class="testimonial">
                 <span class="icon fa fa-quote-left"></span>
                 <p class="description">
-                  Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                Sunburn is all too common during the summer. Heading outside at the wrong time of day, forgetting to wear sunblock, or simply spending too much time with exposed skin in the sunlight can lead to a bad sunburn.Dehydration is another nasty one to watch out for.
                 </p>
                 <div class="testimonial-content">
                   <div class="pic">
                     <img src="https://picsum.photos/130/130?image=777" alt="">
                   </div>
                   <h3 class="name">Lizzie Geren</h3>
-                  <span class="title">Web Developer</span>
+                  <span class="title">Frankie Wallace</span>
                 </div>
               </div>
             </div>
