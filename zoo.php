@@ -64,7 +64,7 @@ Zoonoses comprise a large percentage of all newly identified infectious diseases
     </div>
     <div class="w3-third w3-container">
       
-      <p class="w3-border w3-padding-large w3-padding-8 w3-center"><mark></mark><a href="https://indianexpress.com/article/cities/lucknow/black-fungus-a-notified-disease-uttar-pradesh-government-7325130/"><img src="images/zoo.jpg" alt="HTML tutorial" style="width:100%;height:100%;">Black fungus a notified disease’: Uttar Pradesh government</a></p>
+      <p class="w3-border w3-padding-large w3-padding-8 w3-center"><mark></mark><a href="https://www.downtoearth.org.in/news/health/reducing-risk-of-zoonoses-in-food-production-who-lays-down-guidelines-76448"><img src="images/zoo.jpg" alt="HTML tutorial" style="width:100%;height:100%;">Black fungus a notified disease’: Uttar Pradesh government</a></p>
     </div>
   </div>
 
