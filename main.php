@@ -68,14 +68,13 @@ AOS.init({
 
     <nav class="nav">
         <ul>
-            <li><a href="Index.php">home</a></li>
-            <li><a href="#about">about</a></li>
-            <li><a href="#Health_Advisors">Adviser</a></li>
-            <li><a href="#facility">facility</a></li>
-            <li><a href="#review">review</a></li>
-            <li><a href="#contact">contact</a></li>
-            <li><a href="#post">post</a></li>
-            <li><a href="profile.php">Profile</a></li>
+            <li><a href="Index.php">Home</a></li>
+            <li><a href="#about">Services</a></li>
+            <li><a href="#Health_Advisors">Advisors</a></li>
+            <li><a href="#facility">Facilities</a></li>
+            <li><a href="#review">Reviews</a></li>
+            <li><a href="#contact">Appointments</a></li>
+            <li><a href="#post">Posts</a></li>
             <li><a href="logout.php">Logout</a></li>
             <li class="nav-item dropdown">
                     

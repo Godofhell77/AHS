@@ -33,15 +33,17 @@ p {
 }
 
 .faq-title {
+  text-align: center;
     font-size: 32px;
     margin: 6.4px 0;
 }
 
 div.seperator {
+  
     width: 220px;
-    background-color: blue;
+    background-color: black;
     height: 1.12px;
-    margin-left: -28.8px;
+    margin-left: 220px;
 }
 
 .faq-list > div {
@@ -339,7 +341,7 @@ img{
   margin-top: 50px;
 }
 a:link, a:visited {
-  width: 310px;
+  width: 350px;
   margin-top: 50px;
   background-color: white;
   color: black;
@@ -357,6 +359,7 @@ a:hover, a:active {
 
 .section-container
 {
+  margin-left: 130px;
 --bs-gutter-x: 1.5rem;
 --bs-gutter-y: 0;
 display: flex;
@@ -485,7 +488,7 @@ h2.span{
 <div class="w3-top">
   <div class="w3-bar w3-grey w3-card w3-left-align w3-large">
     <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-padding-large w3-hover-white w3-large w3-red" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
-    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-white" style="margin-left: 20px;">Home</a>
+    <a href="main.php" class="w3-bar-item w3-button w3-padding-large w3-white" style="margin-left: 20px;">Home</a>
   </div>
 
   <!-- Navbar on small screens -->
@@ -501,7 +504,7 @@ h2.span{
 
 <!-- Header -->
 <header class="w3-container w3-light-grey w3-center w3-animate-zoom" data-aos="zoom-in" style="padding: 128px 64px">
-  <img class="w3-image" src="images/vacc.jpg" alt="Cinque Terre" width="1400" height="1700">
+  <img class="w3-image" src="images/vacc.jpg" alt="Cinque Terre" width="100%" height="1700">
 </header>
 
 <!-- First Grid -->
@@ -511,7 +514,7 @@ h2.span{
       <div class="acc-container" >
   <div id="faq" class="faq-body">
       <div class="faq-header">
-        <h3 class="faq-title">Vaccine Questions</h3>
+        <h3 class="faq-title">General COVID-19 FAQ's</h3>
         <div class="seperator"></div>
         <div class="faq-list">
           <div>
@@ -649,7 +652,7 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
  
   <div class="one slide">
     <blockquote>
-      <span class="leftq quotes">&ldquo;</span> Remarkable how our doctors and scientists have worked in quick time to strengthen the global fight against COVID-19. I appeal to all those who are eligible to take vaccine. Together, let us make India COVID-19 free!!!. <span class="rightq quotes">&bdquo; </span>
+      <span class="leftq quotes">&ldquo;</span> Remarkable how our doctors and scientists have worked in quick time to strengthen the global fight against COVID-19. I appeal to all those who are eligible to take vaccine. It will not only make our citizens immune and able to defend COVID, but will also make our Nation grow exponentially. Together, let us make India COVID-19 free!!!. <span class="rightq quotes">&bdquo; </span>
     </blockquote>
     <img src="images/modi.jpg" width="270" height="230" />
     <h2>Narendra Damodardas Modi</h2>
@@ -720,7 +723,7 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
 <div class="w3-container w3-black w3-center w3-opacity w3-padding-64">
     
           <!-- new code -->
-<h2 data-aos="fade-right" class="text-center">Projects statistics</h2>
+<h2 data-aos="fade-right" class="text-center" style="color: white;">COVID-19 Vaccine by Numbers</h2>
 
 <div  class="project-counter-wrp">
 
@@ -730,26 +733,26 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
         <li>
             <i class="fa fa-briefcase"></i>
             <p style="text-align: center;">%</p>
-            <p style="text-align: center;" id="number1" class="number">95</p>
+            <p style="text-align: center;" id="number1" class="number">70</p>
             <br/>
             <span></span>
-            <p style="text-align: center;">Projects Done</p>
+            <p style="text-align: center;">Vaccine Effectiveness</p>
         </li>
         <li>
-            <i class="fa fa-smile-o"></i>
+            <i class="fa fa-briefcase"></i>
             <p style="text-align: center;" ><</p>
             <p style="text-align: center;" id="number2" class="number">89</p>
             <br/>
             <span></span>
-            <p style="text-align: center;">Happy Clients</p>
+            <p style="text-align: center;">People Vaccineted</p>
         </li>
         <li style="width: 30.33%">
-            <i class="fa fa-coffee"></i>
+            <i class="fa fa-briefcase"></i>
             <p style="text-align: center;">~</p>
             <p style="text-align: center;" id="number3" class="number">359</p>
             <br/>
             <span></span>
-            <p style="text-align: center;">Cups of Coffee</p>
+            <p style="text-align: center;">Population that needs to be Vaccinated to achieve herd immunity.</p>
         </li>
     </ul>
 </div>
@@ -830,13 +833,13 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
     var clients = setInterval(happyClients, 200)
     var coffee = setInterval(cupsCoffee, 200)
     let count1 = 1;
-    let count2 = 99970;
+    let count2 = 239058160;
     let count3 = 1;
 
     function projectDone() {
         count1++
         document.querySelector("#number1").innerHTML = count1
-        if (count1 == 95) {
+        if (count1 == 70) {
             clearInterval(project)
         }
     }
@@ -844,7 +847,7 @@ Covaxin® vaccine, manufactured by the Bharat Biotech, is a Whole-virion Inactiv
     function happyClients() {
         count2++
         document.querySelector("#number2").innerHTML = count2
-        if (count2 == 100000) {
+        if (count2 == 239058360) {
             clearInterval(clients)
         }
     }
