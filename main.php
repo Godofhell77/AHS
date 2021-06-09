@@ -130,18 +130,18 @@ AOS.init({
         <div class="col-md-6 content" data-aos="fade-right">
 
             <div class="box">
-                <h3> <i class="fas fa-ambulance"></i> ambulance services </h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit.</p>
+                <h3> <i class="fas fa-ambulance"></i> Ambulance services </h3>
+                <p>Ambulance Service Available.</p>
             </div>
 
             <div class="box">
-                <h3> <i class="fas fa-procedures"></i> emergency rooms </h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit.</p>
+                <h3> <i class="fas fa-procedures"></i> Emergency rooms </h3>
+                <p>Emergency Service Available.</p>
             </div>
 
             <div class="box">
-                <h3> <i class="fas fa-stethoscope"></i> free check-ups </h3>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa, suscipit.</p>
+                <h3> <i class="fas fa-stethoscope"></i> Free check-ups </h3>
+                <p>Free check-ups Available.</p>
             </div>
 
         </div>
@@ -260,7 +260,7 @@ AOS.init({
 
 <div class="container">
 
-<h1 class="heading"><span>'</span> our facilities <span>'</span></h1>
+<h1 class="heading"><span>'</span> Our facilities <span>'</span></h1>
 
 <div class="box-container">
 
@@ -332,28 +332,28 @@ AOS.init({
 
 <div class="container">
 
-<h1 class="heading"><span>'</span> people's review <span>'</span></h1>
+<h1 class="heading"><span>'</span> People's review <span>'</span></h1>
 
 <div class="box-container">
 
     <div class="box" data-aos="fade-right">
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur accusantium error numquam dolore atque. Atque totam ad sint ducimus! Maxime!</p>
-        <h3>someone's name</h3>
-        <span>jan 5, 2021</span>
+        <p>The management of the Website is good. The doctors are very skillful. Top and recent technology available.</p>
+        <h3>Mr. Sunil Yadav</h3>
+        <span>July 21, 2020</span>
         <img src="images/pic1.png" alt="">
     </div>
 
     <div class="box" data-aos="fade-up">
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur accusantium error numquam dolore atque. Atque totam ad sint ducimus! Maxime!</p>
-        <h3>someone's name</h3>
-        <span>jan 7, 2021</span>
+        <p>Best Website in India with all latest medical assistance and facilities under one roof.</p>
+        <h3>Mr. Ram Krishna Tiwari</h3>
+        <span>August 22, 2020</span>
         <img src="images/pic2.png" alt="">
     </div>
 
     <div class="box" data-aos="fade-left">
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consectetur accusantium error numquam dolore atque. Atque totam ad sint ducimus! Maxime!</p>
-        <h3>someone's name</h3>
-        <span>jan 10, 2021</span>
+        <p>Dr Trehan at Medanta Medicity Hospital Gurgaon is a world-renowned cardiac surgeon. We were explained the entire surgical process to us in detail.</p>
+        <h3>Mr. Vipul Khatri</h3>
+        <span>March 14, 2021</span>
         <img src="images/pic3.png" alt="">
     </div>
 
@@ -413,7 +413,7 @@ AOS.init({
 
         <div class="row justify-content-center">
 
-            <h1 class="heading"><span>'</span> make an appointment <span>'</span></h1>
+            <h1 class="heading"><span>'</span> Make an appointment <span>'</span></h1>
 
             <div class="col-md-10" data-aos="flip-down">
 
@@ -439,7 +439,7 @@ AOS.init({
 
     <div class="container min-vh-100">
 
-        <h1 class="heading"><span>'</span> out posts <span>'</span></h1>
+        <h1 class="heading"><span>'</span> Out posts <span>'</span></h1>
 
         <div class="box-container" data-aos="fade-right" >
 
@@ -491,7 +491,7 @@ AOS.init({
 
             <div class="col-md-4" data-aos="fade-right">
                 <a href="#" class="logo"><span>H</span>ealth<span>C</span>are.</a>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur nemo porro quasi minima consequuntur dolorum, quas amet in autem id?</p>
+                <p>The Art of medicine consists of amusing the patient while Nature cures the disease.</p>
             </div>
 
         
