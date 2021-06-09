@@ -40,7 +40,7 @@
                     <div class="dropdown-menu" aria-labelledby="navbarDropdown">
                         <a class="dropdown-item" href="modal.php">Report an Accident</a>
                         <div class="dropdown-divider"></div>
-                        <a class="dropdown-item" href="#">Something else here</a>
+                        <a class="dropdown-item" href="fp.php">Coming Soon</a>
                     </div>
                 </li>
                 <li class="nav-item dropdown">
@@ -432,28 +432,28 @@
             <div class="container-fluid">
                 <div class="row">
                 <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/medanta.jpg" title="Medanta Medicity" class="img-fluid pb-4">
+                        <img src="images/medanta.jpg" title="Medanta Medicity" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/bombay.jpg" title="Bombay Hospital" class="img-fluid pb-4">
+                        <img src="images/bombay.jpg" title="Bombay Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/aurbindo.jpg" title="Aurbindo Hospital" class="img-fluid pb-4">
+                        <img src="images/aurbindo.jpg" title="Aurbindo Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/vishesh.jpg" title="Vishesh Hospital" class="img-fluid pb-4">
+                        <img src="images/vishesh.jpg" title="Vishesh Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/jupiter.jpg" title="Jupiter Hospital" class="img-fluid pb-4">
+                        <img src="images/jupiter.jpg" title="Jupiter Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/fortis.jpg" title="Fortis Hospital" class="img-fluid pb-4">
+                        <img src="images/fortis.jpg" title="Fortis Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/apollo1.jpg" title="Apollo Hospital" class="img-fluid pb-4">
+                        <img src="images/apollo1.jpg" title="Apollo Hospital" class="img-fluid">
                     </div>
                     <div class="col-lg-3 col-md-3 col-12 p-4">
-                        <img src="images/shalby.jpg" title="Shalby Hospital" class="img-fluid pb-4">
+                        <img src="images/shalby.jpg" title="Shalby Hospital" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -471,6 +471,20 @@
             </center></div>
         </section>
 
+        <section id="lab_social_icon_footer">
+<!-- Include Font Awesome Stylesheet in Header -->
+<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+<div class="container">
+        <div class="text-center center-block">
+              <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+              <a href="https://www.facebook.com/bootsnipp"><i id="social-ig" class="fa fa-instagram-square fa-3x social"></i></a>
+	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
+              <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gt" class="fa fa-github-square fa-3x social"></i></a>
+	            <a href="mailto:#"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a><br><br>
+    </div>
+</div>
+</section>
 
         <footer>
             <center><p class="p-3 bg-dark text-white text-center">Trilogy Production</p></center>
