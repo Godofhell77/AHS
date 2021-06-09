@@ -68,14 +68,13 @@ AOS.init({
 
     <nav class="nav">
         <ul>
-            <li><a href="Index.php">home</a></li>
-            <li><a href="#about">about</a></li>
-            <li><a href="#Health_Advisors">Adviser</a></li>
-            <li><a href="#facility">facility</a></li>
-            <li><a href="#review">review</a></li>
-            <li><a href="#contact">contact</a></li>
-            <li><a href="#post">post</a></li>
-            <li><a href="profile.php">Profile</a></li>
+            <li><a href="Index.php">Home</a></li>
+            <li><a href="#about">Services</a></li>
+            <li><a href="#Health_Advisors">Advisors</a></li>
+            <li><a href="#facility">Facilities</a></li>
+            <li><a href="#review">Reviews</a></li>
+            <li><a href="#contact">Appointments</a></li>
+            <li><a href="#post">Posts</a></li>
             <li><a href="logout.php">Logout</a></li>
             <li class="nav-item dropdown">
                     
@@ -498,17 +497,15 @@ AOS.init({
 
             <div class="col-md-4 text-center" data-aos="fade-left">
                 <h3>share</h3>
-                <a href="#">facebook</a>
-                <a href="#">twitter</a>
-                <a href="#">instagram</a>
-                <a href="#">github</a>
+                <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	            <a href="mailto:#"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
             </div>
 
         </div>
 
     </div>
-
-    <h1 class="credit text-center mx-auto">created by <span>mr. web designer</span> | all rights reserved.</h1>
 
 </section>
 
