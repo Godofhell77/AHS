@@ -33,7 +33,7 @@
 		<input type="radio" name="gender" value="other">Other<br><br>
 		
 		<label><b>Contact No:</b></label><br>
-		<input type="number" placeholder="Contact Number" name="contact" required><br>
+		<input type="text" placeholder="Contact Number" name="contact" minlength="10" maxlength="13" required><br>
 		
 		<label><b>Username:</b></label><br>
 		<input type="text" placeholder="Create Username" name="username" required><br>
