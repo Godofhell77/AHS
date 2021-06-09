@@ -144,7 +144,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
             </div>
             <div class="form-group">
                 <input type="submit" class="btn btn-dark" value="Submit">
-                <input type="reset" class="btn btn-primary" value="Reset">
+                <input type="reset" class="btn btn-light" value="Reset">
             </div>
             <p>Already have an account? <a href="login.php" style="color: white;">Login here</a>.</p>
         </form>

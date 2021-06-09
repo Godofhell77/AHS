@@ -77,12 +77,26 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <title>Reset Password</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <style>
-        body{ font: 14px sans-serif; }
-        .wrapper{ width: 360px; padding: 20px; }
+        body{
+             font: 14px sans-serif;              
+         }
+        .container{ background-color: #248f8f;
+         border-radius: 15px; 
+         width: 25%; 
+         padding: 20px; 
+         margin-left: 740px;
+          margin-top: 250px;
+          box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+          transition: 0.4s;
+        }
+        section.container.div form-group :hover{
+            box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.4);
+            
+        }
     </style>
 </head>
-<body>
-    <div class="wrapper">
+<body background="images/login.jpg">
+<section class="container">
         <h2>Reset Password</h2>
         <p>Please fill out this form to reset your password.</p>
         <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post"> 
@@ -97,10 +111,10 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 <span class="invalid-feedback"><?php echo $confirm_password_err; ?></span>
             </div>
             <div class="form-group">
-                <input type="submit" class="btn btn-primary" value="Submit">
-                <a class="btn btn-link ml-2" href="welcome.php">Cancel</a>
+                <input type="submit" class="btn btn-dark" value="Submit">
+                <a class="btn btn-light" href="welcome.php">Cancel</a>
             </div>
         </form>
-    </div>    
+</section>    
 </body>
 </html>
