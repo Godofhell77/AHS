@@ -74,7 +74,7 @@
   <br>
   City: <input type="text" name="city" required>
   <br>
-  Contact no.: <input type="number" name="contact" maxlength="10" minlength="10" required>
+  Contact no.: <input type="text" name="contact" maxlength="10" minlength="10" required>
   <br>
   <button type="submit" name="Submit">REGISTER</button>
 </form>

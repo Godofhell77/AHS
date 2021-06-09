@@ -92,7 +92,7 @@ function showError(error) {
                       <div class="form-group">
                          <label class="control-label col-sm-2" for="mobile">Mobile:</label>
                          <div class="col-sm-10">
-                            <input type="text" class="form-control" id="mobile" placeholder="Enter mobile" name="mobile" required>
+                            <input type="text" minlength="10" maxlength="13" class="form-control" id="mobile" placeholder="Enter mobile with Indian Code" name="mobile" required>
                          </div>
                       </div>
                       
