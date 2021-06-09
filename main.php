@@ -75,7 +75,6 @@ AOS.init({
             <li><a href="#review">review</a></li>
             <li><a href="#contact">contact</a></li>
             <li><a href="#post">post</a></li>
-            <li><a href="profile.php">Profile</a></li>
             <li><a href="logout.php">Logout</a></li>
             <li class="nav-item dropdown">
                     
@@ -483,34 +482,24 @@ AOS.init({
 
 <!-- footer section starts  -->
 
-<section class="footer">
-
-    <div class="container">
-
-        <div class="row">
-
-            <div class="col-md-4" data-aos="fade-right">
-                <a href="#" class="logo"><span>H</span>ealth<span>C</span>are.</a>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur nemo porro quasi minima consequuntur dolorum, quas amet in autem id?</p>
-            </div>
-
-        
-
-            <div class="col-md-4 text-center" data-aos="fade-left">
-                <h3>share</h3>
-                <a href="#">facebook</a>
-                <a href="#">twitter</a>
-                <a href="#">instagram</a>
-                <a href="#">github</a>
-            </div>
-
-        </div>
-
+<section id="lab_social_icon_footer">
+      <!-- Include Font Awesome Stylesheet in Header -->
+      <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+      <div class="container">
+        <div class="text-center center-block">
+              <a href="https://www.facebook.com/bootsnipp"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+	            <a href="https://twitter.com/bootsnipp"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+	            <a href="https://plus.google.com/+Bootsnipp-page"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
+	            <a href="mailto:#"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
     </div>
-
-    <h1 class="credit text-center mx-auto">created by <span>mr. web designer</span> | all rights reserved.</h1>
-
+</div>
 </section>
+
+</div>
+</div>
+</div>
+
+    
 
 <!-- footer section ends -->
 
