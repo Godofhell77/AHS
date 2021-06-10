@@ -25,7 +25,7 @@ function newUser()
 
 	if (mysqli_query($conn, $sql)) 
 	{
-		echo "<h2>Record created successfully!! Redirecting to Admin mainpage page....</h2>";
+		echo "<h2>Record created successfully!!</h2>";
 		header( "Refresh:1; url=adddoctor.php");
 
 	} 

@@ -18,8 +18,7 @@ if(isset($_POST['Submit']))
 				$sql1="update clinic set MID=$mid where CID=$cid";
 				if (mysqli_query($conn, $sql)) 
 				{
-							echo "<h5>Record created successfully( CID=$cid MID=$mid )!!</h5>";
-							echo "Please wait...Refreshing...";
+										
 							header( "Refresh:2; url=addmanagerclinic.php");
 
 				} 

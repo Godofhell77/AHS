@@ -100,8 +100,7 @@ function newclinic()
 
 	if (mysqli_query($conn, $sql)) 
 	{
-		echo "<h2>Record created successfully!!</h2>";
-		header( "Refresh:3; url=addclinic.php");
+			header( "Refresh:3; url=addclinic.php");
 
 	} 
 	else

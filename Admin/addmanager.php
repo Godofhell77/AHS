@@ -111,7 +111,7 @@ function newUser()
 
 	if (mysqli_query($conn, $sql)) 
 	{
-		echo "<h5>Record created successfully!! Refreshing....</h5>";
+		echo "<h5>Record created successfully!!</h5>";
 		header( "Refresh:1; url=addmanager.php");
 
 	} 
