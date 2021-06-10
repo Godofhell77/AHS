@@ -20,7 +20,7 @@ if(isset($_POST['Submit']))
 				$sql = "INSERT INTO doctor_availability (CID, DID, Day, Starttime, Endtime) VALUES ('$cid','$did','$daylist','$starttime','$endtime')";
 				if (mysqli_query($conn, $sql)) 
 				{
-					echo "<h5>Record created successfully( CID=$cid DID=$did Day=$daylist )!!</h5>";
+					
 				} 
 				else
 				{
