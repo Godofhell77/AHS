@@ -65,7 +65,7 @@ function showError(error) {
                <div class="contact-info">
                   <img src="https://image.ibb.co/kUASdV/contact-image.png" alt="image"/>
                   <h2>Contact Us</h2>
-                  <h4>Please elaborate the incident situation for immidiate response.</h4>
+                  <h4>Please elaborate the incident situation for immediate response.</h4>
                </div>
             </div>
             <div class="col-md-9">
