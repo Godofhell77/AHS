@@ -28,7 +28,7 @@ if($result->status=='success'){
 
 	
 	
-	$html="<table><tr><td>Name</td><td>$name</td></tr><tr><td>Email</td><td>$email</td></tr><tr><td>Mobile</td><td>$mobile</td></tr><tr><td>Comment</td><td>$comment</td></tr><tr><td>Region</td><td>$result->regionName</td></tr><tr><td>City</td><td>$result->city</td></tr><tr><td>Latitude</td><td>result->lat</td></tr><tr><td>Longitude</td><td>result->lon</td></tr></table> ";
+	$html="<table><tr><td>Name</td><td>$name</td></tr><tr><td>Email</td><td>$email</td></tr><tr><td>Mobile</td><td>$mobile</td></tr><tr><td>Comment</td><td>$comment</td></tr><tr><td>Region</td><td>$result->regionName</td></tr><tr><td>City</td><td>$result->city</td></tr><tr><td>Latitude</td><td>$result->lat</td></tr><tr><td>Longitude</td><td>$result->lon</td></tr></table> ";
 
 
 	include('smtp/PHPMailerAutoload.php');
